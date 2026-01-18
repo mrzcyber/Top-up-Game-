@@ -4,7 +4,7 @@
   --color-main:#1B1919;
   --color-second:#232121;;
 
-
+  --font-mogra: var(--font-mogra)
 }
 
 @import "swiper/css";
